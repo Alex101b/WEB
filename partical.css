@@ -10,18 +10,18 @@ body {
 h2 {
     text-align: center;
     margin: 30px auto;
-    color: #2c3e50; 
+    color: #d9b117; 
     font-size: 32px;
     font-weight: bold;
     text-transform: uppercase;
-    border-bottom: 2px solid #1abc9c;
+    
     padding-bottom: 10px;
     max-width: 80%;
 }
 
 .navbar {
-    background-color: #34495e; 
-    border-bottom: 2px solid #1abc9c;
+    background-color: #d9b117; 
+    
     padding: 15px 20px;
     font-size: 15px;
     text-align: center;
@@ -55,11 +55,11 @@ h2 {
 footer {
     color: #ffffff;
     padding: 15px 20px;
-    text-align: center;
-    border-top: 2px solid #1abc9c;
+    text-align: right;
+    
     margin-top: 20px;
     font-size: 12px;
-    background-color: #34495e;
+    background-color: #d9b117;
 }
 
 .social-icons {
@@ -73,7 +73,7 @@ footer {
     width: 40px;
     height: 40px;
     margin: 0 5px;
-    border: 2px solid #1abc9c; 
+    border: 2px solid #2fa6d9; 
     padding: 5px;
     border-radius: 50%; 
     transition: transform 0.3s ease, filter 0.3s ease;
