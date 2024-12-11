@@ -55,11 +55,11 @@ h1 {
 footer {
     color: white;
     padding: 10px 20px;
-    text-align: center;
-    border-top: 2px solid #1abc9c; 
+    text-align: right;
+    /*border-top: 2px solid #1abc9c; */
     margin-top: 20px;
     font-size: 12px;
-    background-color: #34495e;
+    background-color: #d9b117;
 }
 
 .social-icons {
